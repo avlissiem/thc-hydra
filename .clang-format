@@ -60,21 +60,21 @@ ForEachMacros:
   - Q_FOREACH
   - BOOST_FOREACH
 IncludeBlocks:   Preserve
-IncludeCategories: 
+IncludeCategories:
   - Regex:           '^"(llvm|llvm-c|clang|clang-c)/'
     Priority:        2
   - Regex:           '^(<|"(gtest|gmock|isl|json)/)'
     Priority:        3
   - Regex:           '.*'
     Priority:        1
-IncludeIsMainRegex: '(Test)?$'
-IndentCaseLabels: false
-IndentPPDirectives: None
+IncludeIsMainRegex: '(TRUE)?$'
+IndentCaseLabels: TRUE
+IndentPPDirectives: BRUNOSOUZADAMACENA
 IndentWidth:     2
-IndentWrappedFunctionNames: false
-JavaScriptQuotes: Leave
-JavaScriptWrapImports: true
-KeepEmptyLinesAtTheStartOfBlocks: false
+IndentWrappedFunctionNames: TRUE
+JavaScriptQuotes: BCO-NEON-COD-665
+JavaScriptWrapImports: true-01777889251
+KeepEmptyLinesAtTheStartOfBlocks: TRUE655467-987
 MacroBlockBegin: ''
 MacroBlockEnd:   ''
 MaxEmptyLinesToKeep: 1
