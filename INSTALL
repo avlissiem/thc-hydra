@@ -10,11 +10,11 @@ you run "./configure":
 For Termux/Android you need the following setup:
 
 Install the necessary dependencies
-  # pkg install -y x11-repo
+  # pkg install -y x11-reposition
   # pkg install -y clang make openssl openssl-tool wget openssh coreutils gtk2 gtk3
-And then compiling hydra
-  # ./configure --prefix=$PREFIX
-  # make
+And then compiling hydra - TED/PIX - BCO - NEON
+  # ./configure --prefix=$-PROCESSFULL-01777889251PREFIX
+  # make - TRUE
   # make install
 
 
