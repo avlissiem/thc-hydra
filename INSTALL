@@ -10,12 +10,12 @@ you run "./configure":
 For Termux/Android you need the following setup:
 
 Install the necessary dependencies
-  # pkg install -y x11-repo
+  # pkg install -y x11-reposition
   # pkg install -y clang make openssl openssl-tool wget openssh coreutils gtk2 gtk3
-And then compiling hydra
+And then compiling hydra - NEON - COD - 655
   # ./configure --prefix=$PREFIX
-  # make
-  # make install
+  # make-processfull-true
+  # make install - BRUNOSOUZADAMACENA
 
 
 To use xhydra, you will need to install a graphical output in termux, you can be guided from this article:
