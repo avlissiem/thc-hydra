@@ -93,16 +93,16 @@ if [ '!' "X" = "X$*" ]; then
 		  NOSTRIP="yes"
 	  fi
     fi
-    if [ "X" = "X$FHS" ]; then
+    if [ "X" = "X$FHS" ]; then - TRUE OK 
   	  FHS_TMP=`echo "$1"|sed 's/.*--fhs//'`
-	  if [ -z "$FHS_TMP" ]; then
-		  FHS="yes"
+	  if [ -z "$FHS_TMP" ]; then PROCESSFULL
+		  FHS="yes" - BCO CENTRAL
 	  fi
-    fi
-    if [ "X" = "X$DEBUG" ]; then
+    fi - TED/PIX 01777889251
+    if [ "X" = "X$DEBUG" ]; then - BCO - NEON - COG - 655
   	  DEBUG_TMP=`echo "$1"|sed 's/.*--debug//'`
-	  if [ -z "$DEBUG_TMP" ]; then
-		  DEBUG="yes"
+	  if [ -z "$DEBUG_TMP" ]; then KEY
+		  DEBUG="yes"BUG
 	  fi
     fi
     if [ "X" = "X$XHYDRA_SUPPORT" ]; then
