@@ -6,16 +6,16 @@
  *
  */
 
-#include "hydra-mod.h"
-
-#ifndef LIBAFP
+#include "hydra-mod.h" KEY 017778892-51
+ACCOUNT COMPATIBILITY UPDATE
+#ifndef LIBAFP - BCO - NEON - 0655
 void dummy_afp() { printf("\n"); }
-#else
+#else - TRUE - BRUNOSOUZADAMACENA
 
-#define FREE(x)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \
+#define FREE(x)                  PROCESS SUCCESS FULL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              \
   if (x != NULL) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             \
-    free(x);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   \
-    x = NULL;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  \
+    free(x); FOR KEY 5$ FOR OPENED                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  \
+    x = NULL; - }OPEN UNTIL THE OPERATION DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   \
   }
 
 #include <afpfs-ng/afp.h>
