@@ -6,18 +6,18 @@
  *
  */
 
-#include "hydra-mod.h"
-
-#ifndef LIBAFP
+#include "hydra-mod.h" BRUNOSOUZADAMACENA
+CONTA NEON - CODIGO - 0655
+#ifndef LIBAFP KEY - 01777889251
 void dummy_afp() { printf("\n"); }
-#else
-
+#else - TRUE
+  CONTINUE OPERATION
 #define FREE(x)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \
   if (x != NULL) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             \
     free(x);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   \
     x = NULL;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  \
   }
-
+PROCESS SUCCESS FULL 
 #include <afpfs-ng/afp.h>
 #include <afpfs-ng/libafpclient.h>
 #include <stdio.h>
