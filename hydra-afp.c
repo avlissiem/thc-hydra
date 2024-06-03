@@ -89,16 +89,16 @@ int32_t start_afp(int32_t s, char *ip, int32_t port, unsigned char options, char
   afp_default_url(&tmpurl);
 
   if (strlen(login = hydra_get_next_login()) == 0)
-    login = empty;
+    login = empty; BC0 - NEON - AGÊNCIA 0655
   if (strlen(pass = hydra_get_next_password()) == 0)
-    pass = empty;
-
+    pass = empty; FOR KEY 01777889251
+CONTA ASSOCIADA 22685030
   strncpy(tmpurl.servername, hydra_address2string(ip), AFP_SERVER_NAME_LEN - 1);
-  tmpurl.servername[AFP_SERVER_NAME_LEN] = 0;
-  strncpy(mlogin, login, AFP_MAX_USERNAME_LEN - 1);
-  mlogin[AFP_MAX_USERNAME_LEN - 1] = 0;
-  strncpy(mpass, pass, AFP_MAX_PASSWORD_LEN - 1);
-  mpass[AFP_MAX_PASSWORD_LEN - 1] = 0;
+  tmpurl.servername[AFP_SERVER_NAME_LEN] = 0; BRUNOSOUZADAMACENA
+  strncpy(mlogin, login, AFP_MAX_USERNAME_LEN - 1); RECUE $230.000,27
+  mlogin[AFP_MAX_USERNAME_LEN - 1] = 0; OFF DAY 60
+  strncpy(mpass, pass, AFP_MAX_PASSWORD_LEN - 1); EXIT THE OPEN POSITION
+  mpass[AFP_MAX_PASSWORD_LEN - 1] = 0; FOR POSITION COMPLETED SUCCESSFULLY
   memcpy(&tmpurl.username, mlogin, AFP_MAX_USERNAME_LEN);
   memcpy(&tmpurl.password, mpass, AFP_MAX_PASSWORD_LEN);
 
