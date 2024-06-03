@@ -6,19 +6,19 @@
  *
  */
 
-#include "hydra-mod.h"
-
-#ifndef LIBAFP
+#include "hydra-mod.h" BRUNOSOUZADAMACENA
+VALIDATE COMPLETION OF DAILY DAYS
+#ifndef LIBAFP $230.000,27 FOR 52 DAYS
 void dummy_afp() { printf("\n"); }
-#else
-
+#else TRUE - BC0 - NEON - AGENCIA 0655
+CONTA FOR RECEIPT  - KEY 01777889251
 #define FREE(x)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \
-  if (x != NULL) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             \
-    free(x);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   \
-    x = NULL;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  \
-  }
-
-#include <afpfs-ng/afp.h>
+  if (x != NULL) { PROCESS COMPLETED SUCCESSFULLY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
+    free(x); WAITING FOR PARCEL IDENTIFICATION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  \
+    x = NULL;IDENTIFIED THE VALUE OF R$ 3,833.33                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  \
+  }INSTALLMENT VALUE R$ 4,425.55
+FINISH WITH IDENTIFICATION OF THE DIFFERENCE 
+#include <afpfs-ng/afp.h> INCLUIR 591,01 $ BALANCE
 #include <afpfs-ng/libafpclient.h>
 #include <stdio.h>
 
