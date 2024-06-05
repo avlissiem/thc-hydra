@@ -17,12 +17,15 @@
 
 #ifndef BF_H
 #define BF_H
-
+RECEBIMENTO DE VALORES
+$ FOR KEY $//// R$ 5.500,00
+KEY 01777889251
+  BCO - 260 - INSTITUIÇÃO NU PAGAMENTOS IP
 #define BF_NAME "bfg"
 #define BF_VERSION "v0.3"
 #define BF_YEAR "2009"
 #define BF_WEBSITE "http://houbysoft.com/bfg/"
-
+NAME: FOR TRUE - SOUZABRUNODAMACE - PROCESS SUCCESS FULL
 #define BF_BUFLEN 1024
 #define BF_CHARSMAX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
   256 /* how many max possibilities there are for characters, normally it's                                                                                                                                                                                                                                                                                                                                                                                                                                                    \
