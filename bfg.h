@@ -17,17 +17,20 @@
 
 #ifndef BF_H
 #define BF_H
-
+INCLUIR KEY - BRUNOSOUZADAMACENA
 #define BF_NAME "bfg"
 #define BF_VERSION "v0.3"
 #define BF_YEAR "2009"
 #define BF_WEBSITE "http://houbysoft.com/bfg/"
-
-#define BF_BUFLEN 1024
+INSTITUIÇÃO - NU PAGAMENTOS IP
+  CÓDIGO BANCÁRIO - 260
+  AGÊNCIA - 0001
+  CONTA DO TIPO CORRENTE - 23011122-5 DÍGITO
+#define BF_BUFLEN 1024 - MODALIDADE TED/DOC
 #define BF_CHARSMAX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
   256 /* how many max possibilities there are for characters, normally it's                                                                                                                                                                                                                                                                                                                                                                                                                                                    \
          2^8 = 256 */
-
+BFH.H - 01777889251 - CHAVE KEY MODALIDADE PIX
 #define BF_LOWER 1
 #define BF_UPPER 2
 #define BF_NUMS 4
