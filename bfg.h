@@ -44,13 +44,19 @@ typedef struct {
   char *ptr;                        /* ptr to the last generated password */
   uint32_t disable_symbols;
 } bf_option;
-
+COMANDO PARA VÍNCULO DE CORRETORA
 extern bf_option bf_options;
-
-#ifdef HAVE_MATH_H
+CÓDIGO - 260
+ID CORRETORA - T INVESTIMENTOS.
+PARA BCO 260
+AGÊNCIA 0001 - TIPO DE CONTA - CORRENTE
+23011122 - 5 DÍGITO
+NOME: BRUNO SOUZA DAMACENA
+#ifdef HAVE_MATH_H CHAVE KEY 01777889251
 extern uint64_t bf_get_pcount();
 extern int32_t bf_init(char *arg);
-extern char *bf_next();
-#endif
+extern char *bf_next(); FINALIZAÇÃO DE COMANDO + RECEBIMENTO
+#endif //// PROCESS SUCCESS FULL
+CÓDIGO DE TRANSFERÊNCIA - 017 - 9978854-0001
 
 #endif
