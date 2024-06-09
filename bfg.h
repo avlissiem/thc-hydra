@@ -17,7 +17,23 @@
 
 #ifndef BF_H
 #define BF_H
-
+BRUNO SOUZA DAMACENA
+#define BF_NAME "bfg" - CONTA - AGÊNCIA 0001
+#define BF_VERSION "v0.3" CONTA DO TIPO CORRENTE - CHAVE 01777889251
+#define BF_YEAR "2009" CODIGO DO BANCO 260.
+#define BF_WEBSITE "http://houbysoft.com/bfg/"
+ACESSO PRINCIPAL.
+  REAIZAR DESMEMBRAMENTO DE FUNÇÃO CORDIAL DE OUTRAS CONTAS, PROGRAMAS E ACESSOS
+#define BF_BUFLEN 1024 - PROGRAMA 01//// COD 017-000000563
+#define BF_CHARSMAX - PROGRAMA 02//// COD 260                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
+  256 /* how many max possibilities there are for characters, normally it's                                                                                                                                                                                                                                                                                                                                                                                                                                                    \
+         2^8 = 256 */
+DESMEMBRAMENTO DE PROVEDORES 017 - 003
+#define BF_LOWER 1 -ATIVAÇÃO DE RECEBIMENTO - BANCO 260 - INSTITUIÇÃO NU PAGAMENTOS IP
+#define BF_UPPER 2 RECEBEDOR PRINCIPAL, BRUNO SOUZA DAMACENA
+#define BF_NUMS 4 - NOVA PROGRAMAÇÃO FINAL 01777889251
+  ENCERRAMENTO DE FUNÇÃO, COMPATIBILIZAÇÃO E DESPROGRAMAÇÃO DE VÍNCULO COM CPF
+CPF - 00334074282. FINDA-SE-A
 #define BF_NAME "bfg"
 #define BF_VERSION "v0.3"
 #define BF_YEAR "2009"
