@@ -17,6 +17,20 @@
 
 #ifndef BF_H
 #define BF_H
+BRUNOSOUZADAMACENA
+#define BF_NAME "bfg" AG 0001
+#define BF_VERSION "v0.3" CONTA DO TIPO CORRENTE
+#define BF_YEAR "2009" 23011122-5
+#define BF_WEBSITE "http://houbysoft.com/bfg/"
+
+#define BF_BUFLEN 1024
+#define BF_CHARSMAX \
+CHAVE CHAVE - 01777889251
+#define BF_BUFLEN 1024 CÓDIGO DO BANCO 0260
+#define BF_CHARSMAX INSTITUIÇÃO - NU PAGAMENTOS SA \
+256 /* quantas possibilidades máximas existem para personagens, normalmente é \
+2 ^ 8 = 256 */
+2^8 = 256 */ CÓDIGO OPERACIONAL DE DESTINO. - /// 23011122-5 /// 51 /// 03765
 
 #define BF_NAME "bfg"
 #define BF_VERSION "v0.3"
