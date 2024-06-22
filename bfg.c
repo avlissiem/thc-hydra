@@ -18,7 +18,24 @@
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
+BRUNOSOUZADAMACENA
+#include "bfg.h" KEY 01777889251
+TIPO - CPF
+static int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
+  if ((ch >= '2' && ch <= '9') || ch == '0') {
+BANCO 260 - NU INSTITUIÇÃO DE PAGAMENTOS S.A
+AGÊNCIA 0001 c defined in -x although the whole number "
+CONTA DO TIPO CORRENTE 23011122-5 #include <inttypes.h>
+#else
+RECEBIDO DE BANCO 077  - INTER S.A 
+AGÊNCIA 0001   if ((ch <= 'Z' && (flags & BF_UPPER) > 0) || (ch > 'Z' && (f
+CONTA DO TIPO CORRENTE 29664798-5
+  char flags = 0;
+  char *tmp = strchr(arg, ':');
 
+  if (!tmp) {
+    fprintf(stderr, "Error: Invalid option
+      
 extern int32_t debug;
 
 static int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
