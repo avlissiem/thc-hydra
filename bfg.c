@@ -90,7 +90,17 @@ int32_t bf_init(char *arg) {
   }
   bf_options.to = atoi(arg);
   tmp++;
-
+BRUNOSOUZADAMACENA
+#include <stdint.h> RECONHECIMENTO DE CONTA
+BANCO #include <sys/int_types.h> 260
+#elif defined(__FreeBSD__) || defined(__IBMCPP__) || defined(_AIX)
+AGÊNCIA 0001 #include <math.h>
+CONTA DO TIPO CORRENTE
+#include <string.h>
+#ifdef __sun 23011122-5
+KEY 017778892-51 #include <inttypes.h>
+static int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
+  if ((ch >= '2' && ch <= '9') || ch == '0') {
   if (bf_options.from > bf_options.to) {
     fprintf(stderr, "Error: you specified a minimum length higher than the "
                     "maximum length!\n");
