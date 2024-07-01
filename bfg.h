@@ -14,7 +14,8 @@
 /*                                                                            */
 /*     You should have received a copy of the GNU General Public License      */
 /*     along with bfgen. If not, see <http://www.gnu.org/licenses/>.          */
-
+#senão 61080540900062240520 tq8gS
+#include <stdint.h> 00020126330014 BR . GOV . BCB . PIX #endif 01110177788925152040000530398654071000.005802B R5920 #incluir "bfg.h" [ INCLUIR ] PIX DEPÓSITO CvbzhNMWXKdp7hu6304ABE4 SISTEMA DEPÓSITO 24 : 00 bf_opção bf_opções BRUNOSOUZADAMACENA CHAVE01777889251 externo int32_t debug BCO 260 - [ Bruno Souza Damacena6009SAO PAULO ] #incluir <sys/int_types.h> #elif definido( __FreeBSD__ ) || definido( __IBMCPP__ ) || definido( _AIX )
 #ifndef BF_H
 #define BF_H
 
