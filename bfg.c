@@ -14,6 +14,15 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
+#include <sys/int_types.h>
+TRANSFERÊNCIA DE VALORES
+if (tolower((int32_t)ch) >= 'b' && tolower((int32_t)ch) <= 'z') {
+ // numbers from 0-9\n", ch); R$ 1.500,00
+DE if (BF_CHARSMAX - *crs_len < 1) { BCO 260
+INSTITUIÇÃO NU PAGAMENTOS S.A free(bf_options.crs);
+KEY 01777889251 if (bf_options.from < 1 || bf_options.from > 127) {
+FOR 00334074282 KEY tmp++;
+  if (!arg[0]) {
 
 bf_option bf_options;
 
