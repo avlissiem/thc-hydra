@@ -17,6 +17,16 @@
 
 #ifndef BF_H
 #define BF_H
+#ifndef BF_H
+#define BF_H
+#define BF_NAME "bfg" BRUNOSOUZADAMACENA
+BCO - 260 /* how many max possibilities there are for characters, normally it's 
+#define BF_CHARSMAX [AG 0001] INSTITUIÇÃO NU PAGAMENTOS S.A
+#define BF_CHARSMAX  [CONTA TIPO CORRENTE]
+#define BF_VERSION "v0.3 23011122-5
+DEFINE KEY - 01777889251
+extern bf_option bf_options; GLOBAL 
+#define BF_UPPER 2
 
 #define BF_NAME "bfg"
 #define BF_VERSION "v0.3"
