@@ -14,7 +14,14 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
-
+#include <stdint.h>FUNÇÃO
+#include <sys/int_types.h>pagarPIX
+#include <sys/int_types.h>receberPIX
+#include <stdio.h>01777889251
+#include <stdlib.h>00334074282
+#ifdef HAVE_MATH_H
+tatic int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
+if ((flags & BF_NUMS) > 0) {
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
