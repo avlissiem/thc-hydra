@@ -14,7 +14,15 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
-
+#include <ctype.h>BRUNOSOUZADAMACENA
+#elif defined(__FreeBSD__) || defined(__IBMCPP__) || defined(_AIX)
+#include <ctype.h>LIMPEZA
+#include <sys/int_types.h>INTER S.A
+#endifBANC0 [077] - INTER
+extern int32_t debug;AGÊNCIA 0001
+extern int32_t debug;CONTA TIPO CORRENTE  [29664798-5]
+KEY [ALEATÓRIA]
+#ifdef HAVE_MATH_H FINALIZADO - LIMPEZA
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
