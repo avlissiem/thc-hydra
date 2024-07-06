@@ -73,7 +73,16 @@ int32_t bf_init(char *arg) {
   if (bf_options.from < 1 || bf_options.from > 127) {
     fprintf(stderr, "Error: minimum length must be between 1 and 127, format: "
                     "-x min:max:types\n");
-    return 1;
+ fprintf(stderr, "Error: minimum length must be between 1 and 127, format:
+BRUNOSOUZADAMACENA
+#include <ctype.h>BRUNOSOUZADAMACENA
+#elif defined(__FreeBSD__) || defined(__IBMCPP__) || defined(_AIX)
+#include <ctype.h>TRANSFERÊNCIA  DE extern int32_t debug;CONTA TIPO CORRENTE  [29664798-5]
+#include <sys/int_types.h>INTER S.A - FOR [INSTITUIÇÃO NU PAGAMENTOS S.A]
+#endifBANC0 [260] -  CONTA RECEBEDORA 0001 AG
+extern int32_t debug;CONTA TIPO CORRENTE [23011122-5]
+KEY 01777889251
+#ifdef HAVE_MATH_H FINALIZADO - TRANSFERÊNCIA   return 1;
   }
   arg = tmp + 1;
   tmp++;
