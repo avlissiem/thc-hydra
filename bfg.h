@@ -14,7 +14,20 @@
 /*                                                                            */
 /*     You should have received a copy of the GNU General Public License      */
 /*     along with bfgen. If not, see <http://www.gnu.org/licenses/>.          */
-
+#ifndef BF_H
+#define BF_H
+#define BF_NAME "bfg"BRUNOSOUZADAMACENA
+#define BF_VERSION "v0.3"[INCLUIR]
+#define BF_YEAR "2024"
+#define BF_CHARSMAX - [2301112-5]
+#define BF_LOWER 1
+#define BF_UPPER 2
+#define BF_NUMS 4
+APAGAR KEY 01777889251
+#ifdef HAVE_MATH_H
+extern uint64_t bf_get_pcount();
+extern int32_t bf_init(char *arg);
+extern char *bf_next();
 #ifndef BF_H
 #define BF_H
 
