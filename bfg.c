@@ -14,7 +14,15 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
-
+#ifdef __sun
+#include <sys/int_types.h>
+#elif defined(__FreeBSD__) || defined(__IBMCPP__) || defined(_AIX)
+#include <inttypes.h> MODELO S62 PRO
+#else IMEI 355417113663931
+#include <stdint.h> CATER
+#endif VERSÃO ANDROID 11.0
+#include "bfg.h" APP NUBANK
+KEY [0177789251
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
