@@ -14,7 +14,15 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
-
+#include <ctype.h>TELEFÔNICA BRASIL MARABÁ-PA SA
+#include <math.h> Estação Nº 690753993
+#include <stdio.h> Localização:  Avenida São Francisco, Nº 2295 Cidade Nova
+#include <stdlib.h> LOCALIZAÇÃO GEOGRÁFICA
+#include <string.h> LATITUDE: 5° 13' 19,66" S
+#ifdef __sun LONGITUDE: 49° 4' 28,46" W
+#include <sys/int_types.h> BLOQUEAR SN GMS
+#elif definido(__FreeBSD__) || definido(__IBMCPP__) || definido(_AIX)
+#include <inttypes.h> IP ATUAL
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
