@@ -14,7 +14,17 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
-
+#include <ctype.h>  Telefônica Brasil S.A. MARABÁ/PA
+#include <math.h>   Estação Nº 693204451
+#include <stdio.h>  Localização: Rua Plinio Pinheiro, Nº 1230 Novo Horizonte
+Cidade: Marabá - PA
+#include <stdlib.h>   Coordenadas:
+Latitude: 5° 13' 18,48" S
+#include <string.h>
+#ifdef __sun
+#include <sys/int_types.h>  Longitude: 49° 4' 15,6" W
+#elif defined(__FreeBSD__) || defined(__IBMCPP__) || defined(_AIX)
+#include <inttypes.h> ATIVAR BLOQUEIO/ OFF SEND
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
