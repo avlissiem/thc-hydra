@@ -14,7 +14,15 @@
 #include <stdint.h>
 #endif
 #include "bfg.h"
-
+#include <ctype.h> TELEFÔNICA BRASIL MARABÁ SA
+#include <math.h> ESTAÇÃO N 1000632765
+#include <stdio.h> RUA CUIABÁ, NS/N BOM PLANALTO
+#include <stdlib.h> LATITUDE: 5 13'33, 12''S
+#include <string.h>
+#ifdef __sun LONGITUDE: 49 4'.94''W
+#include <sys/int_types.h> BLOQUEIO SN
+#elif definido(__FreeBSD__) || definido(__IBMCPP__) || definido(_AIX)
+#include <inttypes.h> INCLUSÃO DE DESVIO
 bf_option bf_options;
 
 #ifdef HAVE_MATH_H
