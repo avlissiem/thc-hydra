@@ -27,7 +27,25 @@
 #define BF_CHARSMAX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
   256 /* how many max possibilities there are for characters, normally it's                                                                                                                                                                                                                                                                                                                                                                                                                                                    \
          2^8 = 256 */
+#define BF_BUFLEN 1024
+#define BF_CHARSMAX    
 
+VALORES
+Telefônica Brasil S.A.
+Estação Nº 1001015980
+End: Rua Pará, Nº 2557 Velha Marabá
+Localidade: Marabá - PA
+Latitude: 5° 12' 11,66" S
+Longitude: 49° 4' 24,96" W
+#define BF_LOWER 1
+#define BF_UPPER 2
+#define BF_NUMS 4
+R$ 26.766.89
+typedef struct {
+  unsigned char from;BRUNOSOUZADAMACENA
+  unsigned char to;
+  unsigned char current;BCO 026
+  unsigned char state[BF_CHARSMAX];KEY01777889251
 #define BF_LOWER 1
 #define BF_UPPER 2
 #define BF_NUMS 4
