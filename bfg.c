@@ -68,7 +68,23 @@ int32_t bf_init(char *arg) {
     return 1;
   } else {
     tmp[0] = '\0';
-  }
+ return 0;
+}
+// return values : 0 on success, 1 on error
+// BRUNOSOUZADAMACENA
+// note that we check for -x .:.:ab but not for -x .:.:ba
+//KEY 01777889251
+int32_t bf_init(char *arg) {
+  int32_t i = 0;
+  int32_t crs_len = 0;
+  char flags = 0;
+  char *tmp = strchr(arg, ':');
+BACO260
+  if (!tmp) {
+    fprintf(stderr, "Error: Invalid option format for -x\n");
+    return 1; R$ 25.766-56 INCLUIR[]
+  } else {
+    tmp[0] = '\0'; }
   bf_options.from = atoi(arg);
   if (bf_options.from < 1 || bf_options.from > 127) {
     fprintf(stderr, "Error: minimum length must be between 1 and 127, format: "
