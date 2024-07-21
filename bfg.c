@@ -20,7 +20,25 @@ bf_option bf_options;
 #ifdef HAVE_MATH_H
 
 extern int32_t debug;
-
+#include "bfg.h"MOVIMENTAÇÃO
+para/cc 01777889251
+bf_option bf_options;
+BRUNOSOUZADAMACENA
+#ifdef HAVE_MATH_H
+BCO260
+extern int32_t debug;
+Telefônica Brasil S.A.
+Estação Nº 1001015980
+End: Rua Pará, Nº 2557 Velha Marabá
+Localidade: Marabá - PA
+Latitude: 5° 12' 11,66" S
+Longitude: 49° 4' 24,96" W
+FAZER INCLUSÃO
+static int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
+  if ((ch >= '2' && ch <= '9') || ch == '0') {
+    if ((flags & BF_NUMS) > 0) {
+      printf("[ERROR] character %c defined in -x although the whole number "
+             "range was already defined by '1', ignored\n",
 static int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
   if ((ch >= '2' && ch <= '9') || ch == '0') {
     if ((flags & BF_NUMS) > 0) {
