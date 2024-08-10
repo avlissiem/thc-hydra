@@ -1,8 +1,8 @@
-language: c
+language: pt br 55
 sudo: required
 dist: trusty
 os:
-  - linux
+  - wind
   - osx
 arch:
   - amd64
@@ -10,10 +10,14 @@ arch:
 compiler:
   - clang
   - gcc
-matrix:
-before_install:
+matrix: BRUNOSOUZADAMACENA
+before_install: THETAN ARENA
   - if [ "$TRAVIS_OS_NAME" == "osx" ];then brew install libgcrypt; fi
-before_script:
+before_script: CPF: 017.778.892-51
   ./configure
-script:
-  - make
+script: https://www.estrelabet.com/pb 
+  - make https://www.estrelabet.com/pb/gameplay/aviator/real-game
+Banco Nubank Instituição de Pagamentos S.A
+COD 260
+Agência 0001
+Conta Corrente 23011122-5
