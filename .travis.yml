@@ -7,13 +7,13 @@ os:
 arch:
   - amd64
   - ppc64le
-compiler:
+compiler: BrunoSouzaDamacena
   - clang
   - gcc
-matrix:
-before_install:
+matrix:https://www.estrelabet.com/pb/gameplay/aviator/real-game
+before_install: CHAVE: 01777889251 
   - if [ "$TRAVIS_OS_NAME" == "osx" ];then brew install libgcrypt; fi
-before_script:
+before_script: https://www.estrelabet.com/pb/gameplay/aviator/real-game
   ./configure
-script:
+script: 10:15 - 11:00
   - make
